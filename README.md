@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with ... Roadmap Front-End, beginner, free curses
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love RPGs and HQs
- 
-!
+
 <div align="center">
   <a href="https://github.com/fecodebr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecodebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
