@@ -1,4 +1,4 @@
-### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Tenho feito vários cursos livres e relacionados à programação na plataforma 'dio.me', 'Alura' e as vezes 'Coursera', pois amo ser autodidata. Ingressei recentemente no curso CS50 na Universidade de Harvard, em breve vou criar meu portfólio. Meu objetivo de longo prazo é me tornar um desenvolvedor fullstack.
+### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Tenho feito vários cursos livres relacionados à programação na plataforma 'dio.me', 'Alura' e as vezes 'Coursera', pois amo ser autodidata. Ingressei recentemente no curso CS50 na Universidade de Harvard, em breve vou criar meu portfólio. Meu objetivo de longo prazo é me tornar um desenvolvedor fullstack.
 
 <div align="center">
   <a href="https://github.com/fecodebr">
