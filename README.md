@@ -1,11 +1,4 @@
-### Hi there 👋, I am a student at Anhembi Morumbi university. Currently studying "Internet Systems" I have also taken several free courses related to programming.
-
-
-- 🔭 I’m currently working on ... Assistant of Support
-- 🌱 I’m currently learning ... Internet Systems
-- 🤔 I’m looking for help with ... Roadmap Front-End, beginner, free curses
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love RPGs and HQs
+### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Tenho feito vários cursos livres e relacionados à programação na plataforma 'dio.me', 'Alura' e as vezes 'Coursera', pois amo ser autodidata. Ingressei recentemente no curso CS50 na Universidade de Harvard, em breve vou criar meu portfólio. Meu objetivo de longo prazo é me tornar um desenvolvedor fullstack.
 
 <div align="center">
   <a href="https://github.com/fecodebr">
