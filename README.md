@@ -1,10 +1,15 @@
 ### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Atualmente venho fazendo vários cursos livres em todo tempo que me sobra relacionados à programação web, pois amo ser autodidata. Ingressei recentemente no curso CS50 da Universidade de Harvard, em breve vou criar meu portfólio e postarei os meus projetos em desenvolvimento por aqui. Meu objetivo de longo prazo é se tornar um desenvolvedor fullstack.
  
- <center>
-    <img src="https://i.imgur.com/xYrQvLy.gif">
-</center>
+
 
 <div align="center">
+
+ <div>
+ <center>
+    <img align="center" alt="flash-crazy" src="https://i.imgur.com/xYrQvLy.gif">
+</center>
+</div>
+
   <a href="https://github.com/fecodebr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecodebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecodebr&layout=compact&langs_count=7&theme=dark"/>
