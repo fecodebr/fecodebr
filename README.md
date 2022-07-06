@@ -1,15 +1,15 @@
 ### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Atualmente venho fazendo vários cursos livres em todo tempo que me sobra relacionados à programação web, pois amo ser autodidata. Em breve vou criar meu portfólio e postarei os meus projetos em desenvolvimento por aqui, enquanto isso tenho colocado apenas o básico. Meu objetivo de longo prazo é se tornar um desenvolvedor fullstack.
  
-
+<a href="https://github.com/fecodebr/graduacao-time-line">** Time Line Faculdade **</a>
 
 <div align="center">
-
+<br>
  <div>
  <center>
     <img align="center" alt="flash-crazy" src="https://i.imgur.com/xYrQvLy.gif">
 </center>
 </div>
-
+<br>
   <a href="https://github.com/fecodebr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fecodebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecodebr&layout=compact&langs_count=7&theme=dark"/>
