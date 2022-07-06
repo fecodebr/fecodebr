@@ -1,4 +1,4 @@
-### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Atualmente venho fazendo vários cursos livres em todo tempo que me sobra relacionados à programação web, pois amo ser autodidata. Em breve vou criar meu portfólio e postarei os meus projetos em desenvolvimento por aqui, enquanto isso tenho colocado apenas o básico. Meu objetivo de longo prazo é se tornar um desenvolvedor fullstack.
+### Olá! 👋 Meu nome e Felipe, sou estudante no curso de "Sitemas para Internet" na universidade Anhembi Morumbi. Atualmente venho fazendo vários cursos livres em todo tempo que me sobra relacionados à programação web, pois amo desenvolvimento web e ser autodidata e um prazer. Em breve vou criar meu portfólio e postarei os meus projetos em desenvolvimento por aqui, enquanto isso tenho colocado apenas o básico. Meu objetivo de curto prazo é se tornar um desenvolvedor front-end e no longo prazo fullstack.
  
 <a href="https://github.com/fecodebr/graduacao-time-line"><h2 align="center">Time Line Faculdade</h2></a>
 
