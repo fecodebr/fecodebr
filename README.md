@@ -41,7 +41,6 @@
   <img align="center" alt="fecoder-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   </div>        
 </details>
-<br>
 
 <br>
 <div align="center">
