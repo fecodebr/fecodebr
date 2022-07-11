@@ -6,6 +6,7 @@
 <br>
  <div>
  <center>
+Running against time.
     <img align="center" alt="flash-crazy" src="https://i.imgur.com/xYrQvLy.gif">
 </center>
 </div>
