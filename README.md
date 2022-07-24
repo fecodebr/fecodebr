@@ -10,7 +10,6 @@
 </center>
 
 </div>
-Discipline is more important than motivation.
  <br>
 <br>
 
