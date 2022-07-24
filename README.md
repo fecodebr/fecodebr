@@ -6,7 +6,7 @@
 <br>
  <div>
  <center>
-    <img align="center" alt="front-back-explorer" src="https://i.gifer.com/7M5g.gif">
+    <img align="center" alt="front-back-explorer" src="https://i.imgur.com/HHKbrZT.gif">
 </center>
 
 </div>
