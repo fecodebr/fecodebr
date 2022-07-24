@@ -10,7 +10,7 @@
 </center>
 
 </div>
-Running against time.
+Discipline is more important than motivation.
  <br>
 <br>
 
