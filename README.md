@@ -6,13 +6,13 @@
 <br>
  <div>
  <center>
-    <img align="center" alt="front-back-explorer" src="https://i.imgur.com/HHKbrZT.gif">
+    <img align="center" alt="front-back-explorer" src="https://i.imgur.com/P99CT33.gif">
 </center>
 
 </div>
+ Discipline is more important than motivation.
  <br>
 <br>
-
 <details>
         <summary>Git Hub Status </summary>
          
